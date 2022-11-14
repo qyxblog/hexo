@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: MaxTalk
+subtitle: 生命不息，折腾不止
 description:
 keywords:
-author: John Doe
-language:
+author: MaxLen
+language: zh-CN
+favicon: https://qyxblog.github.io//favicon.ico
+avatar: https://qyxblog.github.io/images/avatar.png
 timezone:
 
 # URL
@@ -73,7 +75,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
