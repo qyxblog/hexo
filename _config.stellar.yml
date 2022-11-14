@@ -1,0 +1,10 @@
+sidebar:
+  menu:
+    geek: '[折腾](/geek/)'
+    notes: '[笔记](/notes/)'
+    more: '[更多](/more/)'
+
+comments:
+  service: beaudar
+  beaudar:
+    repo: qyxblog/grideagitalk
